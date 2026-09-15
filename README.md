@@ -19,6 +19,26 @@ To edit this repository in MakeCode.
 * open [https://arcade.makecode.com/](https://arcade.makecode.com/)
 * click on **Import** then click on **Import URL**
 * paste **https://github.com/crzle0723/piano-library-extension** and click import
+# SITCC Music
+
+Music asset pack for Microsoft MakeCode Arcade.
+
+## Songs
+
+- TestSong
+
+## Usage
+
+After adding this extension to a MakeCode Arcade project, open the Music/Song asset editor and select a song from the SITCC Music collection.
+
+You can also use the song from TypeScript:
+
+```typescript
+music.play(
+    music.createSong(assets.song`TestSong`),
+    music.PlaybackMode.UntilDone
+)
+```
 
 #### Metadata (used for search, rendering)
 
