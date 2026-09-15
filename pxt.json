@@ -3,8 +3,7 @@
     "version": "0.0.1",
     "description": "Music assets for MakeCode Arcade.",
     "dependencies": {
-        "arcade-piano-roll": "github:microsoft/arcade-piano-roll#v0.0.1",
-        "arcade-sprite-util": "github:jwunderl/arcade-sprite-util#v0.6.0"
+        "*"
     },
     "files": [
         "music.g.jres",
