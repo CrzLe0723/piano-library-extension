@@ -7,8 +7,13 @@
         "arcade-piano-roll": "github:microsoft/arcade-piano-roll#v0.0.1"
     },
     "files": [
+        "main.blocks",
+        "main.ts",
         "music.g.jres",
         "README.md"
+    ],
+    "testFiles": [
+        "test.ts"
     ],
     "targetVersions": {
         "target": "4.1.25",
