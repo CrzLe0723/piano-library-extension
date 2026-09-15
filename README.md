@@ -19,7 +19,8 @@ To edit this repository in MakeCode.
 * open [https://arcade.makecode.com/](https://arcade.makecode.com/)
 * click on **Import** then click on **Import URL**
 * paste **https://github.com/crzle0723/piano-library-extension** and click import
-# SITCC Music
+
+# Music
 
 Music asset pack for Microsoft MakeCode Arcade.
 
