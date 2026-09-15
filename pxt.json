@@ -1,20 +1,15 @@
+
 {
-    "name": "Piano Library Extension?",
-    "description": "",
+    "name": "SITCC_Music",
+    "version": "0.0.1",
+    "description": "Music assets for MakeCode Arcade.",
     "dependencies": {
         "device": "*",
         "arcade-piano-roll": "github:microsoft/arcade-piano-roll#v0.0.1"
     },
     "files": [
-        "main.blocks",
-        "main.ts",
-        "README.md",
-        "assets.json",
-        "images.g.jres",
-        "images.g.ts"
-    ],
-    "testFiles": [
-        "test.ts"
+        "music.g.jres",
+        "README.md"
     ],
     "targetVersions": {
         "target": "4.1.25",
@@ -23,5 +18,6 @@
     "supportedTargets": [
         "arcade"
     ],
-    "preferredEditor": "tsprj"
+    "preferredEditor": "tsprj",
+    "assetPack": true
 }
