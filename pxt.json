@@ -1,5 +1,5 @@
 {
-    "name": "SITCC_Music",
+    "name": "Piano Library Extension",
     "version": "0.0.1",
     "description": "Music assets for MakeCode Arcade.",
     "dependencies": {
